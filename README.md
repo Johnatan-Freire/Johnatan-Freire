@@ -54,13 +54,19 @@ Formado em **Técnico em Informática** e atualmente cursando **Engenharia de So
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Johnatan-Freire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Johnatan-Freire&theme=tokyonight"
   />
 </p>
 
 <p>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Johnatan-Freire&theme=tokyonight"
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Johnatan-Freire&theme=tokyonight"
+  />
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Johnatan-Freire&theme=tokyonight&utcOffset=-3"
   />
 </p>
 
