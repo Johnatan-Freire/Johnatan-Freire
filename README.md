@@ -54,7 +54,7 @@ Formado em **Técnico em Informática** e atualmente cursando **Engenharia de So
 
 <p>
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Johnatan-Freire&theme=tokyo-night"
+    src="https://github-readme-stats.vercel.app/api?username=Johnatan-Freire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 </p>
 
